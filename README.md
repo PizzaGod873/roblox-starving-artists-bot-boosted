@@ -1,5 +1,9 @@
 # Roblox Starving Artists Automation Bot
 
+# https://youtu.be/Ia-xQyvUWho?si=sFisa5ea-y9A1htD
+# https://youtu.be/Ia-xQyvUWho?si=sFisa5ea-y9A1htD
+# https://youtu.be/Ia-xQyvUWho?si=sFisa5ea-y9A1htD
+
 This repository contains a script designed to automate painting actions in the Roblox game "Starving Artists". It uses image recognition and simulates mouse and keyboard actions to paint based on a provided image.
 
 > **Note**: This is a project I made a while ago and just wanted to share with the community. While I don't plan on further developing it, I'll still maintain it and address any issues that may arise.
