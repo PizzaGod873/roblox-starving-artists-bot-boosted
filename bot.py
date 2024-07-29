@@ -5,7 +5,6 @@ import keyboard
 import win32api, win32con
 from PIL import Image
 from tqdm import tqdm
-closeButtonColor = (57, 59, 61)
 
 # Function to simulate a mouse click at given coordinates
 def click(x, y):
@@ -103,9 +102,6 @@ if inputVar == "y":
 	for color in tqdm(pixels):
 		selectColor(color)
 		for pixel in pixels[color]:
-			s = pyautogui.screenshot()
-			if s.getpixel((800, 650)) == closeButtonColor:
-        			pyautogui.click(875, 650)
 			clickFastPixel(pixel[0], pixel[1])
 			if keyboard.is_pressed('q'):
 				quit()
