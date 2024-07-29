@@ -25,7 +25,7 @@ This repository contains a script designed to automate painting actions in the R
 1. Clone the repository:
 
 ```batch
-git clone https://github.com/Luois45/roblox-starving-artists-bot.git
+git clone https://github.com/PizzaGod873/roblox-starving-artists-bot-boosted.git
 ```
 
 2. Navigate to the project directory:
