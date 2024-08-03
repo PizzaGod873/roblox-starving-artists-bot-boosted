@@ -31,7 +31,7 @@ git clone https://github.com/PizzaGod873/roblox-starving-artists-bot-boosted.git
 2. Navigate to the project directory:
 
 ```batch
-cd roblox-starving-artist-bot
+cd roblox-starving-artist-bot-boosted
 ```
 
 3. Install the required packages (It's recommended to use a virtual environment):
